@@ -22,6 +22,8 @@ class Produit
      */
     private $libelle;
 
+
+
     /**
      * @ORM\Column(type="string", length=30)
      */

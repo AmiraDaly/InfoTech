@@ -2,711 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94a4d34-f5a5-46f7-9bb3-427940186e99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/prettify.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/docs/styles.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/doughnut.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/line.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/pie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/polarArea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/radar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/samples/sixup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/6charts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/effects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/assets/simple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/chart-master/site/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/CHANGES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/build-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/ckeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/contents.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/en-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/sr-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/lang/zh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/clipboard/dialogs/paste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/fakeobjects/images/spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/image/images/noimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/link/images/anchor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/magicline/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/scayt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/scayt/dialogs/options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/plugins/wsc/dialogs/wsc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/appendto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/inlineall/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/posteddata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/assets/uilanguages/languages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/divreplace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/inlineall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/inlinebycode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/dialog/dialog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/enterkey/enterkey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/magicline/magicline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/toolbar/toolbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/readonly.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/replacebyclass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/replacebycode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/sample_posteddata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/tabindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/uicolor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/uilanguages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/samples/xhtmlstyle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/dialog_opera.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/images/mini.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/skins/moono/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/ckeditor/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/contactform/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/contactform/contactform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/bootstrap-colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/elegant-icons-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/jquery-jvectormap-1.2.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/jquery-ui-1.10.4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/css/xcharts.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/GPL-LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/MIT-LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/agenda-views.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/basic-views.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/cupertino/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/external-dragging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/gcal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/json-events.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/selectable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/demos/theme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/fullcalendar.print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/fullcalendar/gcal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/jquery/jquery-1.8.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/fullcalendar/jquery/jquery-ui-1.8.23.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/Germany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/India.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/Russia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/Spain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar-mini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar-mini2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar-mini3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar-mini4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/avatar1_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/chart-texture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/chat-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/chat-avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/customSelect-arrow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/geekslabs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/line-icon-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/line-icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/search-line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/weather-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/icons/weather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/mail-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/profile-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/profile-widget-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/sample-img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/sample-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/sample-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/search-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/img/user22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/examples/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/examples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/examples/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/img/easy-pie-chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/blueimp-file-upload.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/cors/postmessage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/cors/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/css/jquery.fileupload-ui-noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/css/jquery.fileupload-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/img/progressbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/cors/jquery.postmessage-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/cors/jquery.xdr-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/jquery.fileupload-fp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/jquery.fileupload-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/vendor/canvas-to-blob.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/vendor/jquery.ui.widget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/vendor/load-image.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/js/vendor/tmpl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-go/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-go/app/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-go/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-go/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-python/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-python/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-python/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/gae-python/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/node/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/node/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/node/public/files/thumbnail/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/node/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/node/tmp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/php/UploadHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/php/files/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/php/files/gr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/php/files/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/server/php/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-file-upload/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-knob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-knob/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-knob/js/jquery.knob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/animated-overlay.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/jquery-ui-1.10.1.custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/jquery-ui-1.10.1.custom.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/jquery-ui-1.10.1.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/jquery-ui-1.10.2.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/jquery-ui/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap-wysiwyg-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap-wysiwyg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/calendar-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/chartjs-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/charts-flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/charts-other.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/charts-xcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/dynamic-table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/form-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/form-validation-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/gdp-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/gritter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery-jvectormap-world-mill-en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery-ui-1.10.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.autosize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.customSelect.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.localscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.placeholder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.rateit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.scrollTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.smartWizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.sparkline-11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.sparkline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.stepy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.tagsinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/lte-ie7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/morris-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/sliders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/sparkline-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/sparklines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/js/xcharts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/area-as-line.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/area.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/bar-colors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/bar-no-axes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/days.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/decimal-custom-hover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/diagonal-xlabels-bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/diagonal-xlabels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/donut-colors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/donut-formatter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/donut.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/dst.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/goals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/lib/example.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/lib/example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/lib/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/lib/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/months-no-smooth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/negative.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/no-grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/non-continuous.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/non-date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/quarters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/stacked_bars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/timestamps.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/updating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/weeks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/examples/years.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/grunt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/less/morris.core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.area.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.bar.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.donut.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.grid.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.hover.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/lib/morris.line.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/raphael-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/area/area_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/bar/bar_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/bar/colours.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/commas_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/donut/donut_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/grid/auto_grid_lines_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/grid/set_data_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/grid/y_label_format_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/hover_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/label_series_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/line/line_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/pad_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/lib/parse_time_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/specs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/support/placeholder.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/chai-1.3.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/chai-jquery-1.1.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/raphael-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/sinon-1.5.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/assets/morris.js-0.4.3/spec/vendor/sinon-chai-2.1.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/contactform/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/contactform/contactform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/bootstrap-colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/elegant-icons-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/jquery-jvectormap-1.2.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/jquery-ui-1.10.4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/style-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/xcharts.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Germany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/India.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Russia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Spain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-mini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-mini2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-mini3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-mini4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar1_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/chart-texture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/chat-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/chat-avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/customSelect-arrow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/geekslabs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/line-icon-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/line-icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/search-line-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/weather-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/weather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/mail-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/profile-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/profile-widget-avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/sample-img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/sample-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/sample-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/search-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/user22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-wysiwyg-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-wysiwyg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/calendar-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/chartjs-custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/charts-flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/charts-other.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/charts-xcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/dynamic-table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/easy-pie-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/form-component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/form-validation-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/gdp-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/gritter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery-jvectormap-world-mill-en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery-ui-1.10.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.autosize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.customSelect.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.localscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.placeholder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.rateit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.scrollTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.smartWizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.sparkline-11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.sparkline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.stepy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.tagsinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/lte-ie7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/morris-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/sliders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/sparkline-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/sparklines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/xcharts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uploads/images/4066ba87e20c6ac9f1f5ba70ce589168.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/template.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gestionProduit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gestionProduit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/UserType.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/Version20211130204643.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/Version20211206213927.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/Version20211207213457.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Produit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Produit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/categorie/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/categorie/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/categorie/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/categorie/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/categorie/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/categorie/new.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/categorie/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/categorie/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/template.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/template.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -730,139 +37,139 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
-      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
-      <path value="$PROJECT_DIR$/vendor/friendsofphp/proxy-manager-lts" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
       <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
       <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
       <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
-      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
-      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
-      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
-      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
-      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
-      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
-      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
-      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
-      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
-      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
-      <path value="$PROJECT_DIR$/vendor/symfony/string" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
-      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
-      <path value="$PROJECT_DIR$/vendor/symfony/proxy-manager-bridge" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
-      <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
-      <path value="$PROJECT_DIR$/vendor/symfony/process" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
-      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
-      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
-      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
-      <path value="$PROJECT_DIR$/vendor/symfony/notifier" />
-      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/password-hasher" />
-      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
-      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
-      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
-      <path value="$PROJECT_DIR$/vendor/symfony/form" />
-      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
-      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
-      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
-      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
-      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
-      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
-      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
-      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
-      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
-      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
-      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/config" />
-      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
-      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
-      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
-      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
-      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
-      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
-      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
-      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
-      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
-      <path value="$PROJECT_DIR$/vendor/twig/twig" />
-      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
-      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
-      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
-      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
-      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/psr/link" />
-      <path value="$PROJECT_DIR$/vendor/psr/cache" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
     </include_path>
   </component>
   <component name="ProjectId" id="21vJC1PM79jEWHyTV7na0AZyb0y" />
@@ -875,17 +182,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Repository" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\public" />
+      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src\Repository" />
+      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src\Entity" />
+      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src\Controller" />
       <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\templates" />
-      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src\DataFixtures" />
-      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\config" />
-      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src" />
+      <recent name="D:\Cours2éme\Framework\Projrt personnel\InfoTech\src\Form" />
     </key>
   </component>
   <component name="RunManager">
@@ -908,7 +215,7 @@
       <workItem from="1638831237189" duration="70000" />
       <workItem from="1638831310580" duration="11181000" />
       <workItem from="1638906131730" duration="2676000" />
-      <workItem from="1638909151028" duration="6603000" />
+      <workItem from="1638909151028" duration="12900000" />
     </task>
     <servers />
   </component>
