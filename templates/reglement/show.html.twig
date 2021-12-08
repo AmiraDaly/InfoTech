@@ -1,0 +1,30 @@
+{% extends 'template.html.twig' %}
+
+{% block title %}Reglement{% endblock %}
+
+{% block body %}
+    <h1>Reglement</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ reglement.id }}</td>
+            </tr>
+            <tr>
+                <th>ModeReglement</th>
+                <td>{{ reglement.modeReglement }}</td>
+            </tr>
+            <tr>
+                <th>Montant</th>
+                <td>{{ reglement.montant }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('reglement_index') }}">back to list</a>
+
+    <a href="{{ path('reglement_edit', {'id': reglement.id}) }}">edit</a>
+
+    {{ include('reglement/_delete_form.html.twig') }}
+{% endblock %}
