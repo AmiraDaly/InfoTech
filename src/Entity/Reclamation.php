@@ -36,11 +36,12 @@ class Reclamation
      * @ORM\Column(type="string", length=50)
      */
     private $statut;
+//
+//    /**
+//     * @ORM\Column(type="datetime",)
+//     */
+//    private $date_creation;
 
- /*   /**
-     * @ORM\Column(type="datetime",)
-     */
-   /* private $date_creation;*/
 
     public function getId(): ?int
     {
@@ -95,7 +96,7 @@ class Reclamation
         return $this;
     }
 
-   /* public function getDateCreation(): ?string
+ /*   public function getDateCreation(): ?string
     {
         $result = $this->date_creation->format('Y-m-d H:i:s');
         if ($result) {

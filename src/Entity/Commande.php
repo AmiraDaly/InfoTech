@@ -2,54 +2,68 @@
 
 namespace App\Entity;
 
-use App\Repository\CommandeRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass=CommandeRepository::class)
+ * @ORM\Entity(repositoryClass="App\Repository\CommandeRepository")
  */
 class Commande
 {
     /**
-     * @ORM\Id
-     * @ORM\GeneratedValue
+     * @ORM\Id()
+     * @ORM\GeneratedValue()
      * @ORM\Column(type="integer")
      */
     private $id;
 
     /**
-     * @ORM\Column(type="string", length=30)
+     * @ORM\Column(type="string", length=50)
      */
-    private $numero;
+    private $Numc;
 
     /**
-     * @ORM\ManyToOne(targetEntity=Client::class, inversedBy="commandes")
+     * @ORM\ManyToOne(targetEntity="App\Entity\Client")
      */
     private $client;
 
     /**
      * @ORM\Column(type="date")
      */
-    private $dateCommande;
+    private $datecomm;
 
     /**
-     * @ORM\Column(type="string", length=30)
+     * @ORM\Column(type="string", length=50)
      */
     private $observation;
+
+    /**
+     * @ORM\Column(type="string", length=50)
+     */
+    private $totht;
+
+    /**
+     * @ORM\Column(type="string", length=50)
+     */
+    private $tottva;
+
+    /**
+     * @ORM\Column(type="string", length=50)
+     */
+    private $totttc;
 
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    public function getNumero(): ?string
+    public function getNumc(): ?string
     {
-        return $this->numero;
+        return $this->Numc;
     }
 
-    public function setNumero(string $numero): self
+    public function setNumc(string $Numc): self
     {
-        $this->numero = $numero;
+        $this->Numc = $Numc;
 
         return $this;
     }
@@ -66,14 +80,14 @@ class Commande
         return $this;
     }
 
-    public function getDateCommande(): ?\DateTimeInterface
+    public function getdatecomm(): ?\DateTimeInterface
     {
-        return $this->dateCommande;
+        return $this->datecomm;
     }
 
-    public function setDateCommande(\DateTimeInterface $dateCommande): self
+    public function setdatecomm(\DateTimeInterface $datecomm): self
     {
-        $this->dateCommande = $dateCommande;
+        $this->datecomm = $datecomm;
 
         return $this;
     }
@@ -86,6 +100,42 @@ class Commande
     public function setObservation(string $observation): self
     {
         $this->observation = $observation;
+
+        return $this;
+    }
+
+    public function getTotht(): ?string
+    {
+        return $this->totht;
+    }
+
+    public function setTotht(string $totht): self
+    {
+        $this->totht = $totht;
+
+        return $this;
+    }
+
+    public function getTottva(): ?string
+    {
+        return $this->tottva;
+    }
+
+    public function setTottva(string $tottva): self
+    {
+        $this->tottva = $tottva;
+
+        return $this;
+    }
+
+    public function getTotttc(): ?string
+    {
+        return $this->totttc;
+    }
+
+    public function setTotttc(string $totttc): self
+    {
+        $this->totttc = $totttc;
 
         return $this;
     }

@@ -19,7 +19,7 @@ class UserType extends AbstractType
                 'choices'  => array(
                     'Simple User' => 'S',
                     'Admin' => 'A',
-                  
+
                 ),
             ))
         ;

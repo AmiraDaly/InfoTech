@@ -34,7 +34,7 @@ class UserController extends AbstractController
         $name = $session->get('name');
         return $this->render('user/dashboard.html.twig', [
             'name' => $name,
-            
+
         ]);
     }
 
@@ -61,61 +61,61 @@ class UserController extends AbstractController
             'form' => $form->createView(),
         ]);
     }
-/**
-    * @Route("/login", name="user_login", methods={"GET","POST"})
-    */
-   public function login(Request $request,UserRepository $userRepository,ProduitRepository $produitRepository): Response
-   {
-       $session = $request->getSession();
-       $session->clear();
-       $user = new User();
-       $form = $this->createFormBuilder($user)
-       ->add('login', TextType::class,[
-        'attr' => [
-            'placeholder' => 'Taper votre login',
-                    ],
-       
-    ])
-       ->add('pwd', PasswordType::class,[
-        'attr' => [
-            'placeholder' => 'Taper votre Password',
-                    ],
-       
-    ])
+    /**
+     * @Route("/login", name="user_login", methods={"GET","POST"})
+     */
+    public function login(Request $request,UserRepository $userRepository,ProduitRepository $produitRepository): Response
+    {
+        $session = $request->getSession();
+        $session->clear();
+        $user = new User();
+        $form = $this->createFormBuilder($user)
+            ->add('login', TextType::class,[
+                'attr' => [
+                    'placeholder' => 'Taper votre login',
+                ],
 
-        ->getForm();
+            ])
+            ->add('pwd', PasswordType::class,[
+                'attr' => [
+                    'placeholder' => 'Taper votre Password',
+                ],
 
-       $form->handleRequest($request);
+            ])
 
-       if ($form->isSubmitted()) {
-           $pwd   = $user->getPwd();
-           $login = $user->getLogin();
-           $user1 = $userRepository->findOneBy(array('login'=>$login,
-           'pwd'=>$pwd));
-          if (!$user1)
-          {
-           $this->get('session')->getFlashBag()->add('info',
-            'Login Incorrecte Vérifier Votre Login  ....');
-          }
-          else
-          {
-           if (!$session->has('name'))
-           {
-               $session->set('name',$user1->getUserName());
-               $name = $session->get('name');
-              
-                   return $this->render('user/dashboard.html.twig', [
-                     'name'=>$name
-                   ]); 
-               }
-      }
+            ->getForm();
+
+        $form->handleRequest($request);
+
+        if ($form->isSubmitted()) {
+            $pwd   = $user->getPwd();
+            $login = $user->getLogin();
+            $user1 = $userRepository->findOneBy(array('login'=>$login,
+                'pwd'=>$pwd));
+            if (!$user1)
+            {
+                $this->get('session')->getFlashBag()->add('info',
+                    'Login Incorrecte Vérifier Votre Login  ....');
+            }
+            else
+            {
+                if (!$session->has('name'))
+                {
+                    $session->set('name',$user1->getUserName());
+                    $name = $session->get('name');
+
+                    return $this->render('user/dashboard.html.twig', [
+                        'name'=>$name
+                    ]);
+                }
+            }
+        }
+
+        return $this->render('user/login.html.twig', [
+            'user' => $user,
+            'form' => $form->createView(),
+        ]);
     }
-
-   return $this->render('user/login.html.twig', [
-    'user' => $user,
-    'form' => $form->createView(),
-]);
-   }
 
 
     /**
