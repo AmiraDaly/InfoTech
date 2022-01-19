@@ -4,6 +4,8 @@ namespace App\Entity;
 
 use App\Repository\ProduitRepository;
 use Doctrine\ORM\Mapping as ORM;
+use Symfony\Component\Validator\Constraints as Assert;
+
 
 /**
  * @ORM\Entity(repositoryClass=ProduitRepository::class)
@@ -38,6 +40,7 @@ class Produit
      * @ORM\Column(type="integer")
      */
     private $stock;
+   
 
     /**
      * @ORM\ManyToOne(targetEntity=Categorie::class, inversedBy="produits")
@@ -97,6 +100,8 @@ class Produit
 
         return $this;
     }
+
+   
 
     public function getCategorie(): ?Categorie
     {

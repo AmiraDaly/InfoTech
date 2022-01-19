@@ -14,6 +14,7 @@
                 <th>Prix</th>
                 <th>Stock</th>
                 <th>actions</th>
+
             </tr>
         </thead>
         <tbody>
@@ -24,9 +25,13 @@
                 <td>{{ produit.code }}</td>
                 <td>{{ produit.prix }}</td>
                 <td>{{ produit.stock }}</td>
+
                 <td>
-                    <a href="{{ path('produit_show', {'id': produit.id}) }}">show</a>
-                    <a href="{{ path('produit_edit', {'id': produit.id}) }}">edit</a>
+                    <a href="{{ path('produit_show', {'id': produit.id}) }}">
+                        <button type="button" class="btn btn-success">show</button></a>
+
+                    <a href="{{ path('produit_edit', {'id': produit.id}) }}">
+                        <button type="button" class="btn btn-danger">edit</button></a>
                 </td>
             </tr>
         {% else %}
@@ -37,5 +42,6 @@
         </tbody>
     </table>
 
-    <a href="{{ path('produit_new') }}">Create new</a>
+    <a href="{{ path('produit_new') }}">
+    <button type="button" class="btn btn-primary btn-lg">Create new</button></a>
 {% endblock %}

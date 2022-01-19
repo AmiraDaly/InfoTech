@@ -4,7 +4,7 @@
 {% block title %}Categorie index{% endblock %}
 
 {% block body %}
-    <h1>Categorie index</h1>
+    <h1>Famille des produits</h1>
 
     <table class="table">
         <thead>
@@ -12,7 +12,7 @@
                 <th>Id</th>
                 <th>Nom</th>
                 <th>Description</th>
-                <th>actions</th>
+                <th>Plus de détail</th>
             </tr>
         </thead>
         <tbody>
@@ -22,10 +22,24 @@
                 <td>{{ categorie.nom }}</td>
                 <td>{{ categorie.description }}</td>
                 <td>
-                    <a href="{{ path('categorie_show', {'id': categorie.id}) }}">show</a>
-                    <a href="{{ path('categorie_edit', {'id': categorie.id}) }}">edit</a>
+                    <div class="card col-3 m-2">
+                        <div class="card-body">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+
+                                <h5 class="card-title">{{ categorie.nom}}</h5>
+                                <p class="card-text">Description: {{categorie.nom}} </p>
+                                <a href="{{ path('categorie_show', {'id': categorie.id}) }}">
+                                    <button type="button" class="btn btn-success">show</button></a>
+                                <a href="{{ path('categorie_edit', {'id': categorie.id}) }}">
+                                    <button type="button" class="btn btn-danger">edit</button></a>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </td>
             </tr>
+
         {% else %}
             <tr>
                 <td colspan="4">no records found</td>
@@ -34,5 +48,6 @@
         </tbody>
     </table>
 
-    <a href="{{ path('categorie_new') }}">Create new</a>
+    <a href="{{ path('categorie_new') }}">
+        <button type="button" class="btn btn-primary ">Create new</button></a>
 {% endblock %}

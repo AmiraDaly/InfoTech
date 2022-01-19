@@ -6,11 +6,12 @@
             <tr>
                 <th>Id</th>
                 <th>Libelle</th>
+                <th>Catégorie</th>
                 <th>Pa</th>
                 <th>Pv</th>
                 <th>Tva</th>
               
-                <th>Image</th>
+
             </tr>
         </thead>
         <tbody>
@@ -18,12 +19,12 @@
             <tr>
                 <td>{{ produit.id }}</td>
                 <td>{{ produit.libelle }}</td>
+                <td>{{ produit.categorie.nom }}</td>
                 <td>{{ produit.Pa }}</td>
                 <td>{{ produit.Pv }}</td>
                 <td>{{ produit.Tva }}</td>
               
-                <td><img src ="{{ asset('uploads/images/' ~ produit.image) }}"
-   alt =""  width="100" height="100"></td>
+
                 
             </tr>
         {% else %}

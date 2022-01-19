@@ -3,7 +3,10 @@
 {% block title %}Reclamation index{% endblock %}
 
 {% block body %}
-    <h1>Reclamation index</h1>
+
+    <div class="alert alert-danger" role="alert">
+        <h3>Reclamation Client</h3>
+    </div>
 
     <table class="table">
         <thead>
@@ -27,8 +30,11 @@
                 <td>{{ reclamation.statut }}</td>
 {#                <td>{{ reclamation.dateCreation ? reclamation.dateCreation|date('Y-m-d H:i:s') : '' }}</td>#}
                 <td>
-                    <a href="{{ path('reclamation_show', {'id': reclamation.id}) }}">show</a>
-                    <a href="{{ path('reclamation_edit', {'id': reclamation.id}) }}">edit</a>
+                    <a href="{{ path('reclamation_show', {'id': reclamation.id}) }}">
+                        <button type="button" class="btn btn-success">show</button></a>
+
+                    <a href="{{ path('reclamation_edit', {'id': reclamation.id}) }}">
+                        <button type="button" class="btn btn-danger">edit</button></a>
                 </td>
             </tr>
         {% else %}
@@ -39,5 +45,6 @@
         </tbody>
     </table>
 
-    <a href="{{ path('reclamation_new') }}">Create new</a>
+    <a href="{{ path('reclamation_new') }}">
+        <button type="button" class="btn btn-primary btn-lg">Create new</button></a>
 {% endblock %}

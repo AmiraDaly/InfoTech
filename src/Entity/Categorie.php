@@ -87,7 +87,7 @@ class Categorie
     }
     public function __toString()
     {
-        return (string) $this->id ;
+        return (string) $this->nom ;
     }
     public function removeProduit(Produit $produit): self
     {
